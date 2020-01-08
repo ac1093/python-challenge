@@ -1,0 +1,5 @@
+Election Results
+-----------------------
+{'Khan': 2218231, 'Correy': 704200, 'Li': 492940, "O'Tooley": 105630} 2.999999147969569
+O'Tooley: 3.000% (105630)
+ And the winner is!!! Khan
